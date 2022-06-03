@@ -1,2 +1,2 @@
-# BusinessComponents
-Components to accelerate business applications
+# BusinessComponents.Net
+.NET Components to accelerate business applications
